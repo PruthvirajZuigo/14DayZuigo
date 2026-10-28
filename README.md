@@ -217,3 +217,5 @@ That's it — no other calls are made anywhere in the app.
 
 That's the only manual step — everything else in this project is ready to run as-is.
 # RagChatbot
+#   R a g C h a t b o t  
+ 
